@@ -1,5 +1,5 @@
 {
-    "name": "KILLBOT",
+    "name": "KATHYBOT",
     "version": "2.0.7",
     "description": "Simple WhatsApp Bot Multi Device",
     "main": "index.js",
@@ -18,20 +18,20 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "https://github.com/Adrianmaze/KILLBOT",
+    "homepage": "https://github.com/Adrianmaze/KATHYBOT",
     "author": {
-        "name": "KILLBOT"
+        "name": "KATHYBOT"
     },
     "collaborators": {
-        "col1": "@KILLBOT",
+        "col1": "@KATHYBOT",
         "col2": "@Anuar"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Adrianmaze/KILLBOT.git"
+        "url": "git+https://github.com/Adrianmaze/KATHYBOT.git"
     },
     "bugs": {
-        "url": "https://github.com/Adrianmaze/KILLBOT/issues"
+        "url": "https://github.com/Adrianmaze/KATHYBOT/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
